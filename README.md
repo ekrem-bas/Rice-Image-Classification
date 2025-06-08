@@ -38,7 +38,7 @@ Follow these steps to run the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ekrem-bas/Image-Classification.git
+git clone https://github.com/ekrem-bas/Rice-Image-Classification.git
 cd Image-Classification
 ```
 
